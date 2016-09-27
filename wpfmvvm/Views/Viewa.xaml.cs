@@ -24,7 +24,7 @@ namespace wpfmvvm.Views
         public Viewa()
         {
             InitializeComponent();
-            DataContext = new ViewaViewModel();
+           
         }
     }
 }

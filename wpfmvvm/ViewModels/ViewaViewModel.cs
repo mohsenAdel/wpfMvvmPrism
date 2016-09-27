@@ -24,7 +24,7 @@ namespace wpfmvvm.ViewModels
                
                
                 SetProperty(ref _FirstName, value);
-                //updateCommand.RaiseCanExecuteChanged();
+                updateCommand.RaiseCanExecuteChanged();
             }
         }
 
