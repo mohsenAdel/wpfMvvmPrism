@@ -1,0 +1,22 @@
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\bin\Debug\wpfmvvm.exe.config
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\bin\Debug\wpfmvvm.exe
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\bin\Debug\wpfmvvm.pdb
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm.csprojResolveAssemblyReference.cache
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\MainWindow.g.cs
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\Views\Viewa.g.cs
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\App.g.cs
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm_MarkupCompile.cache
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm_MarkupCompile.lref
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\MainWindow.baml
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\Views\Viewa.baml
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm.g.resources
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm.Properties.Resources.resources
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm.csproj.GenerateResource.Cache
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm.exe
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm.pdb
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\bin\Debug\Prism.dll
+c:\users\mohsen\documents\visual studio 2015\Projects\wpfmvvm\wpfmvvm\bin\Debug\Prism.xml
+E:\wpfmvvm\wpfmvvm\bin\Debug\wpfmvvm.exe.config
+E:\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm.exe
+E:\wpfmvvm\wpfmvvm\obj\Debug\wpfmvvm.pdb
