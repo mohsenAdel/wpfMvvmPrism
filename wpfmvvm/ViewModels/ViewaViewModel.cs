@@ -1,4 +1,5 @@
 ﻿using Prism.Commands;
+using Prism.Events;
 using Prism.Mvvm;
 using System;
 using System.Collections.Generic;
@@ -6,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using wpfmvvm.Envents;
 
 namespace wpfmvvm.ViewModels
 {
@@ -47,6 +49,8 @@ namespace wpfmvvm.ViewModels
 
 
         private DateTime? _LastUpdate;
+        private  IEventAggregator _EventAggregator;
+
         public DateTime? LastUpdate
         {
             get
@@ -63,8 +67,9 @@ namespace wpfmvvm.ViewModels
 
         public DelegateCommand updateCommand { get; set; }
 
-        public ViewaViewModel()
+        public ViewaViewModel(IEventAggregator EventAggregator)
         {
+            _EventAggregator = EventAggregator;
             updateCommand = new DelegateCommand(execute, CanExcute);
         }
 
@@ -76,6 +81,7 @@ namespace wpfmvvm.ViewModels
         private void execute()
         {
             LastUpdate = DateTime.Now;
+            _EventAggregator.GetEvent<updateEvent>().Publish(LastUpdate.ToString());
         }
     }
 }

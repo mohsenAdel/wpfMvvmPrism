@@ -88,8 +88,10 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Bootstarpper.cs" />
+    <Compile Include="Envents\Envent.cs" />
     <Compile Include="ViewModels\MainWindowViewModel.cs" />
     <Compile Include="ViewModels\ViewaViewModel.cs" />
+    <Compile Include="ViewModels\ViewbViewModel.cs" />
     <Compile Include="Views\Viewa.xaml.cs">
       <DependentUpon>Viewa.xaml</DependentUpon>
     </Compile>
@@ -145,6 +147,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
